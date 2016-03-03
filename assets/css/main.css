@@ -48,6 +48,11 @@
 		-webkit-text-size-adjust: none;
 	}
 
+/* Personal Edits */
+    #benefits {
+        margin-bottom: 500px;
+    }
+
 /* Box Model */
 
 	*, *:before, *:after {
