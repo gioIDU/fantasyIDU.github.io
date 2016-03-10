@@ -49,10 +49,23 @@
 		-webkit-text-size-adjust: none;
 	}
 /* Personal Edits */
+
     #benefits {
         margin-bottom: 50px;
     }
+    
 
+    .intro {
+        line-height: 140%;
+    }
+
+        .intro.fun{
+            margin-bottom: 100px;
+        }
+
+
+        
+        
 
 
 /* Box Model */
@@ -2095,6 +2108,9 @@
 		padding: 6em 0 6em 0;
 	}
 
+.wrapper.style1{
+    padding: 0;
+}
 		.wrapper.style2 {
 			padding-top: 0;
 		}
